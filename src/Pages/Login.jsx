@@ -82,7 +82,7 @@ export default function Login() {
             onChange={(e) =>
               setCredentials({ ...credentials, username: e.target.value })
             }
-            placeholder="Enter Email or UserName"
+            placeholder="Enter Email(hardcode:-admin)"
             className="mb-3"
             style={{
               padding: "12px",
@@ -105,7 +105,7 @@ export default function Login() {
           </Flex>
           <Input
             type="password"
-            placeholder="Password"
+            placeholder="password(password123)"
             className="mb-3"
             onChange={(e) =>
               setCredentials({ ...credentials, password: e.target.value })
