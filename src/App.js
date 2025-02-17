@@ -1,5 +1,5 @@
 import "./App.css";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import { Theme } from "@radix-ui/themes";
 import "@radix-ui/themes/styles.css";
 import Login from "./Pages/Login.jsx";
