@@ -173,7 +173,7 @@ export default function Login() {
             </div>
           </Button>
           {error && (
-            <p className="text-red-500" color="red">
+            <p className="text-red-500" style={{ color: "red" }}>
               {error}
             </p>
           )}
