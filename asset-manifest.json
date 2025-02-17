@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Third-Party-Authentication/static/css/main.13cfc5a3.css",
+    "main.js": "/Third-Party-Authentication/static/js/main.1a90e471.js",
+    "static/js/453.76f89074.chunk.js": "/Third-Party-Authentication/static/js/453.76f89074.chunk.js",
+    "index.html": "/Third-Party-Authentication/index.html",
+    "main.13cfc5a3.css.map": "/Third-Party-Authentication/static/css/main.13cfc5a3.css.map",
+    "main.1a90e471.js.map": "/Third-Party-Authentication/static/js/main.1a90e471.js.map",
+    "453.76f89074.chunk.js.map": "/Third-Party-Authentication/static/js/453.76f89074.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13cfc5a3.css",
+    "static/js/main.1a90e471.js"
+  ]
+}
